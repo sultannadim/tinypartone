@@ -1,0 +1,79 @@
+/*common css start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #313841;
+}
+/*common css end*/
+
+/*header start*/
+.header{
+	padding: 20px 0;
+	background-color: #fcdb00;
+}
+.logo{}
+.menu{}
+.cust_tbar{
+	border-color: rgb(8 8 8 / 40%) !important;
+	
+}
+.cust_tbar:focus{
+	box-shadow: 0 0 0 0.05rem !important;
+}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+	margin: 0 30px;
+	font-size: 22px;
+	color: #010101 !important;
+	font-weight: 700;
+
+}
+.menu ul li a:hover{
+	color: #ffffff !important;
+}
+.menu ul li:last-child a{
+	margin-right: 0px;
+	
+
+}
+/*header end*/
+
+/*slider start*/
+.slider{
+	padding: 30px 0px 100px 0px;
+	background-color: #fcdb00;
+}
+.slider_text{
+	margin-top: 65px;
+}
+.h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.h3{
+	margin: 20px 0;
+	font-size: 20px;
+	font-weight: 400;
+}
+.app_icon{
+	margin-top: 20px;
+}
+.app_icon li{
+	margin-right: 25px !important;
+	font-size: 42px;
+	color: #010101;
+}
+.slider_img{}
+.cust_carousel{
+	top: 108%;
+}
+.cust_carousel [data-bs-target] {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+} 
+
+/*slider end*/
