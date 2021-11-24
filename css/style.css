@@ -24,7 +24,7 @@ body{
 .menu ul{}
 .menu ul li{}
 .menu ul li a{
-	margin: 0 30px;
+	margin: 0 35px;
 	font-size: 22px;
 	color: #010101 !important;
 	font-weight: 700;
@@ -77,3 +77,37 @@ body{
 } 
 
 /*slider end*/
+
+/*features part start*/
+
+.features{
+	padding: 100px 0px 120px 0px;
+}
+.f_text{}
+.f_text p{
+	margin-top: 15px;
+	margin-bottom: 0px;
+	font-size: 20px;
+	line-height: 25px;
+}
+.f_icon{}
+.f_icon i{
+	font-size: 50px;
+	color: #010101;
+}
+.f_details{}
+.f_details h2{
+	margin: 0;
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101;
+}
+.f_details p{
+	margin: 14px 0 0 0;
+	line-height: 22px;
+}
+.c_mt{
+	margin-top: 80px;
+}
+
+/*features part end*/
